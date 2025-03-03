@@ -29,7 +29,9 @@ Order details
 -- 3. Excutive summary 
 Stake holder goals for me was to dig and find into customer data to see which menu items are doing well / not well and what the top customer seems to like best? What I found out the four category the Asian dishes was order more and American dishes where order least but Hambugers was the dishe that was odrer more. 
 
+https://public.tableau.com/views/Book1_17409787407230/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+Above is a link to the tableau public dashbored of the visual of the finding. 
 
 
 

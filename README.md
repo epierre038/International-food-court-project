@@ -31,6 +31,7 @@ Stake holder goals for me was to dig and find into customer data to see which me
 
 https://public.tableau.com/views/Book1_17409787407230/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+
 Above is a link to the tableau public dashbored of the visual of the finding. 
 
 

@@ -1,10 +1,9 @@
 # International-food-court-project
-
 -- 1. Background and overview --
-International Premuim outlet open up in 1989. It's an one of the the mall that lives in Orlando florida. The mall is a place that everyone can get away from their everday life and that they can buy accessories and food for a taste for each individual. 
+International Premium outlet opened in 1989. It's a mall in Orlando, Florida. The mall is a place where everyone can get away from their everyday lives and buy accessories and food to suit each individual's taste. 
 
-Looking into The company finding about the each data and what we can obtain. We looked into menu item, item name, category that each menu was in and the price. Before starting I did clean the data set using excel and as well as the second data set. The second data set name is order details and within that set we are looking at the order date, order time, item id, and order id, and as well of order detail id. 
-**
+Looking into The company's findings about each data and what we can obtain. We looked into menu items, item names, a category that each menu was in, and the price. Before starting I did a cleaning of the data set using Excel and as well as the second data set. The second data set name is order details and within that set, we are looking at the order date, order time, item ID, and order ID, as well as the order detail ID. 
+
  -- My objection was to dig and find into customer data to see which menu items are doing well / not well and what what the top customer seems to like best?
 
  -- Explore the menu_items table to get an idea of what's on the new menu 
@@ -27,12 +26,12 @@ Order details
 
 
 -- 3. Excutive summary 
-Stake holder goals for me was to dig and find into customer data to see which menu items are doing well / not well and what the top customer seems to like best? What I found out the four category the Asian dishes was order more and American dishes where order least but Hambugers was the dishe that was odrer more. 
+Stake holder goals for me was to dig and find into customer data to see which menu items are doing well / not well and what the top customer seems to like best? What I found out was out of the four category the Asian dishes was order more and American dishes where order leastnotw Hambugers was the dishe that was odrer more. 
 
 https://public.tableau.com/views/Book1_17409787407230/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
-Above is a link to the tableau public dashbored of the visual of the finding. 
+Above is a link to the tableau public dashbored of the visual of the finding. What I found 
 
 
 
